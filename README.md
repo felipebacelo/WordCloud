@@ -8,7 +8,7 @@
  
 Repositório com Exemplo de WordCloud em R.
 
-Este simples projeto foi desenvolvido no objetivo de praticar alguns conceitos da linguagem de programação R.
+Este simples projeto foi desenvolvido com o objetivo de praticar alguns conceitos da linguagem de programação R.
 
 Para construção da nuvem de palavras foi utilizado como exemplo uma composição do grande mestre Cartola.
 
